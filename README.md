@@ -1,1 +1,1 @@
-COMING SOON
+A website archiving the history of Sleep Token, using a site built from the Astro Vitesse Template.
